@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Insights
-![Sidhartha's Stats](https://github-readme-stats.vercel.app/api?username=dsid271&show_icons=true&theme=distinguished&hide_border=true)
+[![Sidhartha's Stats](https://github-readme-stats.vercel.app/api?username=dsid271&show_icons=true&theme=distinguished&hide_border=true)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsid271&layout=compact&theme=distinguished&hide_border=true)
 
