@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Connect with me
-[Portfolio](https://dsid271.github.io/Portfolio) | [cite_start][LinkedIn](https://linkedin.com/in/dsidhartha) 
+[Portfolio](https://dsid271.github.io/Portfolio) | [LinkedIn](https://linkedin.com/in/dsidhartha) 
 
 <!--
 **dsid271/dsid271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
